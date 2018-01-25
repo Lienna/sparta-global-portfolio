@@ -1,0 +1,52 @@
+body {
+  background: #EAECED
+}
+
+nav.navbar-default {
+  background: #EAECED;
+}
+
+body > nav > div > div.collapse.navbar-collapse > ul > li > a:hover {
+  color: rgb(249, 0, 85);
+}
+
+body > nav > div > div.collapse.navbar-collapse > ul > li:nth-child(2) > a:hover {
+  color: rgb(249, 0, 85);
+}
+
+body > nav > div > div.collapse.navbar-collapse > ul > li:nth-child(3) > a:hover {
+  color: rgb(249, 0, 85);
+}
+
+body > div.container > div.brow {
+  border-top-style: dotted;
+}
+
+body > nav > div {
+  border-bottom: Solid black;
+}
+
+body > div > div.projrow > div:nth-child(1) {
+  float: right;
+}
+
+body > div > div.projrow > div:nth-child(2) {
+  float: right;
+}
+
+body > div > div.projrow > div:nth-child(3) {
+  float: right;
+}
+
+
+body > div > div:nth-child(2) > div:nth-child(1) {
+  float: right;
+}
+
+body > div > div:nth-child(2) > div:nth-child(3) {
+  float: right;
+}
+
+body > div > div:nth-child(2) > div:nth-child(2) {
+  float: right;
+}

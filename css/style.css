@@ -50,3 +50,7 @@ body > div > div:nth-child(2) > div:nth-child(3) {
 body > div > div:nth-child(2) > div:nth-child(2) {
   float: right;
 }
+
+/* body > div > div:nth-child(2) > div.col-sm-3.a { */
+  /* float: left */
+/* } */
